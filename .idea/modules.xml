@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Template.template-java.iml" filepath="$PROJECT_DIR$/.idea/modules/Template.template-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-template.iml" filepath="$PROJECT_DIR$/.idea/modules/java-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-template.main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-template.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-template.test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-template.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/template-java.iml" filepath="$PROJECT_DIR$/.idea/template-java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/template-java.main.iml" filepath="$PROJECT_DIR$/.idea/modules/template-java.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/template-java.test.iml" filepath="$PROJECT_DIR$/.idea/modules/template-java.test.iml" />
     </modules>
   </component>
 </project>
