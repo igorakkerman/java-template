@@ -1,4 +1,4 @@
-package de.igorakkerman.kata.xyz;
+package de.igorakkerman.xyz;
 
 public class Xyz {
     public int process(int input) {

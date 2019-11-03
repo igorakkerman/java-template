@@ -1,4 +1,4 @@
-package de.igorakkerman.kata.xyz;
+package de.igorakkerman.xyz;
 
 import org.junit.jupiter.api.Test;
 
