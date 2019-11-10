@@ -7,8 +7,6 @@
     <bytecodeTargetLevel>
       <module name="java-template.main" target="13" />
       <module name="java-template.test" target="13" />
-      <module name="template-java.main" target="12" />
-      <module name="template-java.test" target="12" />
     </bytecodeTargetLevel>
   </component>
 </project>

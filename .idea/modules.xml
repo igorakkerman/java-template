@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-template.iml" filepath="$PROJECT_DIR$/.idea/modules/java-template.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-template.main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-template.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-template.test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-template.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/template-java.iml" filepath="$PROJECT_DIR$/.idea/template-java.iml" />
     </modules>
   </component>
 </project>
