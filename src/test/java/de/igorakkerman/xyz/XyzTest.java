@@ -8,20 +8,14 @@ import static org.assertj.core.api.Assertions.assertThatThrownBy;
 class XyzTest {
 
     @Test
-    void zero() {
-        assertThat(new Xyz().process(0)).isZero();
+    void nullValue() {
+        assertThatThrownBy(() -> new Xyz().process(null))
+                .isInstanceOf(IllegalArgumentException.class);
     }
 
     @Test
-    void one() {
-        assertThat(new Xyz().process(1))
+    void empty() {
+        assertThat(new Xyz().process(0))
                 .isZero();
-    }
-
-    @Test
-    void minus1() {
-        assertThatThrownBy(() -> new Xyz().process(-1))
-                .isInstanceOf(IllegalArgumentException.class)
-                .hasMessage("think positive");
     }
 }

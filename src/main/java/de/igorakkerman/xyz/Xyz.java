@@ -1,10 +1,10 @@
 package de.igorakkerman.xyz;
 
 public class Xyz {
-    public int process(int input) {
-        if (input < 0)
-            throw new IllegalArgumentException("think positive");
+    public int process(Integer input) {
+        if (input == null)
+            throw new IllegalArgumentException();
 
-        return 0;
+        return input;
     }
 }
